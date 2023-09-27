@@ -1,6 +1,6 @@
 # Deployment link 
 
-https://blacksof-aditya-submit.netlify.app/
+https://65141264e2d9bc0cdab3f980--splendorous-custard-f9bc51.netlify.app/
 
 # React + Vite
 
